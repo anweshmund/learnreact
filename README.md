@@ -1,1 +1,1 @@
-DAY one of learning react  "how its work "
+My react journey!
